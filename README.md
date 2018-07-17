@@ -1,1 +1,1 @@
-# meitulu_scrapy
+#注意添加获取图片时的referer,且所选网址要正确，否则无法爬取图片
